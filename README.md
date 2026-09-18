@@ -2,6 +2,7 @@
 
 A basic functional web calculator built as a **university assignment**. I developed this project from scratch to practice my core frontend skills and showcase my ongoing progress in web development.
 
+https://jinji888.github.io/calculator_exercise_js/
 <img width="863" height="677" alt="calculator js ss" src="https://github.com/user-attachments/assets/961200e8-216a-42c9-86bd-0cc5cad8a18f" />
 
 
