@@ -1,6 +1,6 @@
 # 🧮 Calculator Project using HTML, CSS and JS
 
-A basic functional web calculator built as a **university assignment**. I developed this project from scratch to practice my core frontend skills and showcase my ongoing progress in web development.
+A basic functional web calculator built as a **university assignment**. While my ultimate career goal is to specialize in **Back-End Development**, I built this client-side project from scratch to demonstrate my understanding of frontend fundamentals and track my overall progress in web development! 
 
 https://jinji888.github.io/calculator_exercise_js/
 <img width="863" height="677" alt="calculator js ss" src="https://github.com/user-attachments/assets/961200e8-216a-42c9-86bd-0cc5cad8a18f" />
